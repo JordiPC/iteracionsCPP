@@ -1,0 +1,3 @@
+﻿  Source.cpp
+E:\!escola\programacio\iteratiuscpp\ex9\Source.cpp(6,13): warning C4101: 'x': unreferenced local variable
+  ex9.vcxproj -> E:\!escola\programacio\iteratiuscpp\ex9\x64\Debug\ex9.exe
